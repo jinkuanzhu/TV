@@ -1,7 +1,4 @@
 福建-台湾,#genre#
-厦门1,http://39.135.55.105:6610/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
-厦门2,http://39.135.55.105:6610/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
-厦门3,http://39.135.55.105:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
 厦门卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 制作不易,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 东南卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
